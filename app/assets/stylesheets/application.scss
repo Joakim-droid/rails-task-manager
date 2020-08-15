@@ -1,0 +1,27 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans&display=swap');
+
+body {
+  font-family: 'Open Sans', sans-serif;
+}
+.container {
+  width: 500px;
+  margin: 0 auto;
+}
+a {
+  color: blue;
+}
+form {
+  display: flex;
+  flex-direction: column;
+}
+input[type="submit"] {
+  margin-top: 8px;
+  background-color: #3769B7;
+  padding: 8px 16px;
+  border: none;
+  color: #fff;
+  border-radius: 4px;
+}
+ul {
+  list-style-type: none;
+}
